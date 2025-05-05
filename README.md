@@ -72,3 +72,7 @@ Only one .sql file (well-commented)
 Source code files (organized properly)
 
 SQL script used to create your database
+
+📌 To run the app use bash
+
+uvicorn main:app --reload
